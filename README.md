@@ -309,15 +309,15 @@ supported directly online.
 
 ## References
 
+Bollier D.: *Think Like a Commoner: A Short Introduction to the Life of
+the Commons*. New Society Publishers, 978-1119049715, 2014.
+
+Brookfield SD, Preskill S.: *The Discussion Book: 50 Great Ways to Get
+People Talking*. Jossey-Bass, 978-1119049715, 2016.
+
 Minahan A.: "Marthas Rules". *Affilia*, 1(2):53--56, 1986,
 doi:10.1177/088610998600100206.
 
 Troy C.: "Why Do Remove Meetings Suck So Much?"
 https://chelseatroy.com/2018/03/29/why-do-remote-meetings-suck-so-much/,
 2018.
-
-Bollier D.: *Think Like a Commoner: A Short Introduction to the Life of
-the Commons*. New Society Publishers, 978-1119049715, 2014.
-
-Brookfield SD, Preskill S.: *The Discussion Book: 50 Great Ways to Get
-People Talking*. Jossey-Bass, 978-1119049715, 2016.
