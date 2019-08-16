@@ -22,7 +22,7 @@ less attention. The most important rules for making meetings efficient
 are not secret, but are rarely followed; this article gives ten quick
 tips that will make meetings less frequent, shorter, and more effective.
 
-## Decide if there actually needs to be a meeting.
+## 1. Decide if there actually needs to be a meeting.
 
 If the only purpose is to share information, have everyone send a brief
 email instead, or better yet, add notes to a shared document so that
@@ -33,7 +33,7 @@ if people don't read what you collate and send out, you can always offer
 them the option of having a meeting instead. In almost thirty years,
 I've never had anyone take me up on this...
 
-## Create an agenda.
+## 2. Create an agenda.
 
 If nobody cares enough about the meeting to make a point-form list of
 what's supposed to be discussed, or if that list isn't circulated at
@@ -63,7 +63,7 @@ they've read it. Don't do this: one of the first people to look at the
 agenda will warn everyone else, so all you'll do is make people feel
 that you're treating them like children.
 
-## Have clear rules for making decisions.
+## 3. Have clear rules for making decisions.
 
 If your meeting includes more than a couple of dozen people, or if you
 think you need Robert's Rules of Order for any other reason, you should
@@ -117,7 +117,7 @@ each other, use Martha's Rules instead [Minahan1986].
     proposal is implemented. Otherwise, the proposal is returned to the
     sponsor for further work.
 
-## Put someone in charge.
+## 4. Put someone in charge.
 
 "In charge" means keeping the meeting moving, glaring at people who are
 muttering to one another or checking email, and telling people who are
@@ -142,7 +142,7 @@ more time to think, or have been trampled so often by fast talkers that
 they've given up trying to speak. Keep a tally of who's spoken how often
 and try to draw out those who are falling behind.
 
-## Require politeness.
+## 5. Require politeness.
 
 No one gets to be rude, no one gets to ramble, and if someone goes off
 topic, it's the chair's job to say, "Let's discuss that elsewhere." If
@@ -161,7 +161,7 @@ the demure gestures used at high-priced auctions if they want to speak.
 It is the moderator's job to keep track of the speaking queue, and to
 call on people in order.
 
-## Record minutes.
+## 6. Record minutes.
 
 Someone other than the chair should take point-form notes about the most
 important pieces of information that were shared, about every decision
@@ -189,7 +189,7 @@ emailed to everyone or posted to a wiki):
     forward. The set of open issues can then serve as a starting point
     for the next meeting's agenda.
 
-## Manage "that guy".
+## 7. Manage "that guy".
 
 Some people are so used to the sound of their own voice that they will
 insist on talking half the time no matter how many other people are in
@@ -213,7 +213,7 @@ interrupting, often without being aware of it. After that, saying, "All
 right, I'm adding another tally to the bingo card," is often enough to
 get them to throttle back.
 
-## Be an active participant.
+## 8. Be an active participant.
 
 Everyone offers leadership training, but nobody offers followership
 training. The result is that many meetings are full of conductors who
@@ -247,7 +247,7 @@ make you sound more eloquent.
 were going to make, take yourself out of the speaking queue, or say, "I
 agree with..." and leave it at that.
 
-## Modify these rules for online meetings.
+## 9. Modify these rules for online meetings.
 
 Depending on your workplace, many or most of your meetings will take
 place via video conferencing. Most of the previous rules apply directly
@@ -285,7 +285,7 @@ solution is to run a text chat beside the video conference where people
 can signal that they want to speak, The moderator then selects people
 from the waiting list.
 
-## Seek truth, not victory.
+## 10. Seek truth, not victory.
 
 The last rule is the hardest for many people, but also the most
 important. Meetings can all too easily degenerate into struggles for
