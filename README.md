@@ -318,6 +318,6 @@ People Talking*. Jossey-Bass, 978-1119049715, 2016.
 Minahan A.: "Marthas Rules". *Affilia*, 1(2):53--56, 1986,
 doi:10.1177/088610998600100206.
 
-Troy C.: "Why Do Remove Meetings Suck So Much?"
+Troy C.: "Why Do Remote Meetings Suck So Much?"
 https://chelseatroy.com/2018/03/29/why-do-remote-meetings-suck-so-much/,
 2018.
